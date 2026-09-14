@@ -1,0 +1,5 @@
+mkdir assets
+cp /path/to/your/banner.png assets/
+git add assets/
+git commit -m "Add assets folder with banner image"
+git push
