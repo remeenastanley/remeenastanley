@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./main/Banner.png" alt="Remeena Stanley banner" width="100%" />
+  <img src="./main/Banner.png" alt="Remeena Stanley Banner" width="100%" />
 
   <h1>Hi, I'm Remeena Stanley 👋</h1>
 
